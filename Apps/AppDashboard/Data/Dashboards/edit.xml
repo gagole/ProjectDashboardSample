@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dashboard>
+  <Title Text="Dashboard Designer" />
+  <Parameters>
+    <Parameter Name="from" Type="System.Int16" Value="2020" />
+    <Parameter Name="to" Type="System.Int16" Value="2020" />
+  </Parameters>
+  <Items>
+    <Chart ComponentName="chartDashboardItem1" Name="Chart 1" />
+  </Items>
+  <LayoutTree>
+    <LayoutGroup>
+      <LayoutItem Weight="0.000856898029134533" />
+      <LayoutItem DashboardItem="chartDashboardItem1" Weight="1.9991431019708654" />
+    </LayoutGroup>
+  </LayoutTree>
+</Dashboard>
